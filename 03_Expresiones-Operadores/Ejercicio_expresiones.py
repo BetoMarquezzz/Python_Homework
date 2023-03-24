@@ -113,9 +113,3 @@ print(8+7 > 9 or 2==3)        #TRUE
 print(not 7>6)                #FALSE
 print(not 5>8)                #TRUE
 
-
-
-
-
-
-
