@@ -9,9 +9,13 @@ lista = [2, ['a', 'b', 'e', 'f', 'h', 'r'], 10.9, 'que onda']
 
 print (lista)                                                # [2, ['a', 'b', 'e', 'f', 'h', 'r], 10.9, 'que onda'] 
 
+#imprime la lista al reves
 lista.reverse()
 print(lista)                                                 # ['que onda', 10.9, ['a', 'b', 'e', 'f', 'h', 'r], 1]
 
+
+
+#imprime el que se encuentre en la posiscion indicada
 lista=[30, 15, 50, 72, 58, 789]
 print(len(lista))                                            # imprime un 6
 
