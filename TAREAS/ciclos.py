@@ -8,12 +8,10 @@ if (numeroo >= 0):
     if numero == 0:
       print('el numero es cero')
     
-    # inner else statement
     else:
         print('el numero es positivo')
 
-# outer else statement
-else:
+    else:
     print('el numero es negativo')
 
 # El numero es positivo
