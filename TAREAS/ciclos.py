@@ -1,29 +1,45 @@
-number = -7
+#TAREA 4 CONDICIONALES 
 
-if number > 0:
-    print("Positive number")
+numero = 8
 
-elif number == 0:
-    print('Zero')
-else:
-    print('Negative number')
-
-print('This statement is always executed')
-
-number = 5
-
-# outer if statement
-if (number >= 0):
+# usar una instrucción if externa
+if (numeroo >= 0):
     # inner if statement
-    if number == 0:
-      print('Number is 0')
+    if numero == 0:
+      print('el numero es cero')
     
     # inner else statement
     else:
-        print('Number is positive')
+        print('el numero es positivo')
 
 # outer else statement
 else:
-    print('Number is negative')
+    print('el numero es negativo')
 
-# Output: Number is positive
+# El numero es positivo
+
+
+numero = - 12
+
+if numero < 0:
+    print("Numero negativo")
+
+elif numero == 0:
+    print('cero')
+else:
+    print('Numero positivo')
+
+# Numero negativo
+
+
+numero = 4
+
+if numero > 0:
+    print("Numero positivo")
+
+elif numero == 0:
+    print('cero')
+else:
+    print('Numero negativo')
+
+# Numero negativo
