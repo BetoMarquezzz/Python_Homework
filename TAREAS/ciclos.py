@@ -3,7 +3,7 @@
 numero = 8
 
 # usar una instrucción if externa
-if (numeroo >= 0):
+if (numero >= 0):
     # inner if statement
     if numero == 0:
       print('el numero es cero')
